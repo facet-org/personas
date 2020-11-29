@@ -5,6 +5,9 @@
 ## Description
 <!-- :small_blue_diamond: :large_blue_diamond: -->
 
+<details>
+<summary>Political Identity (Click to expand)</summary>
+
 | | | |
 |-|-|-|
 | **Change**         | | |
@@ -22,6 +25,8 @@
 | **Trade**          | | |
 | Free Trade         | :large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond: | Fair Trade |
 | Globalism          | :small_blue_diamond::small_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond: | Autarky |
+
+</details>
 
 |Thinks |  |
 |Sees   |  |
