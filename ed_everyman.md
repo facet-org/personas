@@ -4,15 +4,15 @@
 
 ## Description
 :small_blue_diamond: :large_blue_diamond:
+
 | **Change** | | |
 | Progressive | :small_blue_diamond::small_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond:| Conservative |
-<!--| **Society** | | |
+| **Society** | | |
 | Progressive | | Conservative |
 | **Foreign Policy** | | |
 | Progressive | | Conservative |
 | **Trade** | | |
 | Progressive | | Conservative |
--->
 
 |Thinks |  |
 |Sees   |  |
