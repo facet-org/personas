@@ -5,6 +5,7 @@
 ## Description
 :small_blue_diamond: :large_blue_diamond:
 
+|-|-|-|
 | **Change** | | |
 | Progressive | :small_blue_diamond::small_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond:| Conservative |
 | **Society** | | |
